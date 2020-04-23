@@ -1,0 +1,6 @@
+c:\users\naruto\documents\visual studio 2015\Projects\pertemuan1\pertemuan1\bin\Debug\pertemuan1.exe.config
+c:\users\naruto\documents\visual studio 2015\Projects\pertemuan1\pertemuan1\bin\Debug\pertemuan1.exe
+c:\users\naruto\documents\visual studio 2015\Projects\pertemuan1\pertemuan1\bin\Debug\pertemuan1.pdb
+c:\users\naruto\documents\visual studio 2015\Projects\pertemuan1\pertemuan1\obj\Debug\pertemuan1.csprojResolveAssemblyReference.cache
+c:\users\naruto\documents\visual studio 2015\Projects\pertemuan1\pertemuan1\obj\Debug\pertemuan1.exe
+c:\users\naruto\documents\visual studio 2015\Projects\pertemuan1\pertemuan1\obj\Debug\pertemuan1.pdb
